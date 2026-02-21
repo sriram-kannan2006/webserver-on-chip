@@ -1,0 +1,21 @@
+# Compiled Arduino files
+*.bin
+*.elf
+*.hex
+*.map
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Arduino build folder
+build/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
